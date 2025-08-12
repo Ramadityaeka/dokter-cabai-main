@@ -25,7 +25,7 @@ with open('disease_info.json', 'r', encoding='utf-8') as f:
 @st.cache_resource
 def load_classification_model():
     try:
-        model = load_model('coba_coba_mobilenet_v2.h5')
+        model = load_model('coba_40.h5')  # Use the same model as notebook
         return model
     except Exception as e:
         st.error(f"Error loading model: {str(e)}")
@@ -33,10 +33,16 @@ def load_classification_model():
 
 # Preprocess image
 def preprocess_image(image):
-    image = image.convert('RGB')  
-    img = image.resize((224, 224))
+    # Convert PIL Image to temporary file
+    temp_path = "temp_image.jpg"
+    image.save(temp_path)
+    # Load using keras method to ensure consistency with training
+    img = tf.keras.preprocessing.image.load_img(temp_path, target_size=(224, 224))
     img_array = tf.keras.preprocessing.image.img_to_array(img)
     img_array = np.expand_dims(img_array, axis=0)
+    # Remove temporary file
+    import os
+    os.remove(temp_path)
     return preprocess_input(img_array)
 
 
