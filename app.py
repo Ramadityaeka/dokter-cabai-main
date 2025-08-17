@@ -25,7 +25,7 @@ with open('disease_info.json', 'r', encoding='utf-8') as f:
 @st.cache_resource
 def load_classification_model():
     try:
-        model = load_model('coba_40.h5')  # Use the same model as notebook
+        model = load_model('dokter_cabai.h5')  
         return model
     except Exception as e:
         st.error(f"Error loading model: {str(e)}")
