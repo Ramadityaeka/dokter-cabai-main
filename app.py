@@ -25,7 +25,7 @@ with open('disease_info.json', 'r', encoding='utf-8') as f:
 @st.cache_resource
 def load_classification_model():
     try:
-        model = load_model('dokter_cabai.h5')  
+        model = load_model('final_dokter_cabai.h5')  
         return model
     except Exception as e:
         st.error(f"Error loading model: {str(e)}")
@@ -253,7 +253,7 @@ def main():
         <div class="sidebar-content">
             <h3>📊 Statistik Model</h3>
             <p>Model: MobileNetV2</p>
-            <p>Akurasi: 98%</p>
+            <p>Akurasi: 83%</p>
         </div>
         """, unsafe_allow_html=True)
         
@@ -275,24 +275,24 @@ def main():
     with col1:
         st.markdown("""
         <div class="feature-card">
-            <h4>📸 Upload Mudah</h4>
-            <p>Unggah foto daun cabai dengan mudah dan cepat</p>
+            <h4>🌱 Praktis Digunakan</h4>
+            <p>Cukup unggah foto daun cabai, sistem langsung menganalisis</p>
         </div>
         """, unsafe_allow_html=True)
-    
+
     with col2:
         st.markdown("""
         <div class="feature-card">
-            <h4>🤖 AI Terdepan</h4>
-            <p>Menggunakan teknologi deep learning MobileNetV2 dengan akurasi tinggi</p>
+            <h4>⚡ Cepat & Akurat</h4>
+            <p>Prediksi penyakit dilakukan dengan model AI MobileNetV2 berakurasi tinggi</p>
         </div>
         """, unsafe_allow_html=True)
         
     with col3:
         st.markdown("""
         <div class="feature-card">
-            <h4>💡 Solusi Lengkap</h4>
-            <p>Dapatkan diagnosis lengkap dengan solusi penanganan</p>
+            <h4>📖 Informasi Edukatif</h4>
+            <p>Hasil diagnosis dilengkapi deskripsi, pencegahan, dan solusi penanganan</p>
         </div>
         """, unsafe_allow_html=True)
 
@@ -410,7 +410,7 @@ def main():
             ### 🔬 Teknologi yang Digunakan
             - **Deep Learning**: MobileNetV2 Architecture  
             - **Dataset**: 500+ gambar daun cabai berlabel
-            - **Akurasi Model**: 98% pada data testing
+            - **Akurasi Model**: 83% pada data testing
             - **Preprocessing**: Image augmentation & normalization
             
             ### 📊 Kondisi yang Dapat Dideteksi
