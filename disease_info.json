@@ -1,224 +1,172 @@
 {
-    "healthy": {
-        "name": "Daun Sehat",
-        "description": "Daun cabai yang sehat menunjukkan warna hijau yang cerah dan merata, dengan struktur daun yang normal tanpa bercak atau perubahan warna. Tanaman dengan daun sehat memiliki kemampuan fotosintesis optimal dan dapat menghasilkan buah cabai berkualitas tinggi. Kondisi ini menandakan bahwa tanaman mendapat nutrisi yang cukup, pencahayaan yang optimal, dan tidak terserang hama atau penyakit.",
-        "characteristics": [
-            "Warna hijau cerah dan merata di seluruh permukaan daun",
-            "Permukaan daun halus tanpa bercak atau noda",
-            "Tekstur daun kenyal dan tidak rapuh",
-            "Bentuk daun normal sesuai varietas tanaman",
-            "Tulang daun terlihat jelas dengan warna hijau muda",
-            "Tidak ada tanda-tanda layu atau menggulung",
-            "Permukaan daun mengkilap dan tidak kusam"
-        ],
-        "prevention": [
-            "Lakukan pemupukan berimbang dengan NPK sesuai fase pertumbuhan",
-            "Jaga kebersihan kebun dari gulma dan sisa tanaman",
-            "Atur jarak tanam 40-50 cm antar tanaman untuk sirkulasi udara",
-            "Lakukan rotasi tanaman dengan keluarga non-solanaceae",
-            "Pastikan drainase tanah baik untuk mencegah genangan air",
-            "Monitor pH tanah dalam kisaran 6.0-6.8",
-            "Lakukan penyiraman teratur namun tidak berlebihan"
-        ],
-        "solutions": [
-            "Pertahankan program pemeliharaan rutin yang sudah berjalan",
-            "Lakukan monitoring berkala terhadap kondisi tanaman",
-            "Terapkan sistem integrated pest management (IPM)",
-            "Berikan pupuk daun untuk menjaga kesehatan optimal",
-            "Lakukan pruning ringan untuk ventilasi udara yang baik"
-        ],
-        "sources": [
-            {
-                "title": "Panduan Budidaya Cabai - Kementerian Pertanian",
-                "url": "https://cybex.pertanian.go.id/"
-            },
-            {
-                "title": "Teknologi Budidaya Cabai - Balai Penelitian Tanaman Sayuran",
-                "url": "https://balitsa.litbang.pertanian.go.id/"
-            }
-        ]
-    },
-    "leaf curl": {
-        "name": "Keriting Daun (Leaf Curl Virus)",
-        "description": "Penyakit keriting daun pada cabai disebabkan oleh Pepper Yellow Leaf Curl Virus (PYLCV), sejenis Begomovirus yang ditularkan oleh kutu kebul (Bemisia tabaci). Virus ini menyebabkan daun menggulung ke atas, mengkerut, dan ukurannya menjadi lebih kecil dari normal. Infeksi virus ini dapat menyebabkan penurunan hasil hingga 75%, terutama pada musim kemarau. Penularan terjadi secara persisten sirkulatif melalui kutu kebul yang telah mengisap cairan tanaman terinfeksi.",
-        "characteristics": [
-            "Daun muda menggulung ke atas dengan tepi daun melengkung",
-            "Daun mengkerut dan ukuran menjadi lebih kecil (kerdil)",
-            "Pertumbuhan tanaman sangat terhambat dan kerdil",
-            "Daun menebal, kaku, dan berwarna hijau gelap",
-            "Ruas batang memendek sehingga tanaman tampak roset",
-            "Pembungaan terhambat atau tidak berbunga sama sekali",
-            "Produksi buah menurun drastis atau tidak berbuah"
-        ],
-        "prevention": [
-            "Gunakan varietas tahan virus seperti Hot Beauty, Lado, atau Tombak",
-            "Kendalikan populasi kutu kebul dengan perangkap kuning sticky trap",
-            "Aplikasikan insektisida sistemik untuk mengendalikan vektor",
-            "Buang dan musnahkan tanaman yang terinfeksi dengan membakar",
-            "Lakukan rotasi tanaman dengan jenis non-solanaceae",
-            "Gunakan mulsa plastik perak untuk mengusir kutu kebul",
-            "Tanam tanaman penghalang seperti jagung di sekeliling kebun"
-        ],
-        "solutions": [
-            "Cabut dan bakar tanaman yang terinfeksi untuk mencegah penyebaran",
-            "Aplikasikan insektisida berbahan aktif imidakloprid 200 SL (0.5 ml/l)",
-            "Gunakan insektisida thiamethoxam 25 WG (0.2 g/l) secara bergantian",
-            "Semprot dengan abamectin 18 EC (1 ml/l) untuk mengendalikan kutu kebul",
-            "Aplikasikan pupuk daun untuk meningkatkan daya tahan tanaman",
-            "Gunakan mulsa reflektif untuk mengurangi populasi kutu kebul",
-            "Terapkan sistem tanam jajar legowo untuk sirkulasi udara"
-        ],
-        "sources": [
-            {
-                "title": "Pengendalian Virus Kuning pada Tanaman Cabai - Dinas Pertanian Buleleng",
-                "url": "https://distan.bulelengkab.go.id/informasi/detail/artikel/61_pengendalian-virus-kuning-pada-tanaman-cabai"
-            },
-            {
-                "title": "Mekanisme Infeksi Virus Kuning Cabai - Neliti",
-                "url": "https://www.neliti.com/publications/169697/mekanisme-infeksi-virus-kuning-cabai-pepper-yellow-leaf-curl-virus-dan-pengaruhn"
-            },
-            {
-                "title": "Variasi Genetika Pepper Yellow Leaf Curl Virus - IPB Repository",
-                "url": "https://repository.ipb.ac.id/handle/123456789/97058"
-            }
-        ]
-    },
-    "leaf spot": {
-        "name": "Bercak Daun (Cercospora Leaf Spot)",
-        "description": "Penyakit bercak daun pada cabai disebabkan oleh jamur Cercospora capsici. Infeksi ini ditandai dengan munculnya bercak-bercak bulat berwarna coklat dengan pusat berwarna putih atau abu-abu pada daun, yang sering disebut 'mata kodok' (frog eye). Jamur berkembang optimal pada kondisi lembab dengan suhu 25-30°C. Penyakit ini dapat menyebabkan daun menguning dan gugur, sehingga buah terkena sinar matahari langsung dan mengalami sunscald.",
-        "characteristics": [
-            "Bercak bulat berukuran 2-10 mm dengan pusat putih/abu-abu",
-            "Pinggiran bercak berwarna coklat tua hingga hitam",
-            "Bercak dapat menyatu membentuk area nekrotik yang lebih besar",
-            "Daun menguning dimulai dari daun tua kemudian menyebar",
-            "Gugur daun prematur terutama pada daun bagian bawah",
-            "Pada serangan berat, buah terkena sinar langsung (sunscald)",
-            "Permukaan bercak kasar dengan tekstur seperti beludru"
-        ],
-        "prevention": [
-            "Atur jarak tanam 40-50 cm untuk sirkulasi udara yang baik",
-            "Hindari penyiraman dari atas daun, gunakan irigasi tetes",
-            "Buang dan musnahkan daun yang terinfeksi",
-            "Jaga sanitasi kebun dengan membersihkan sisa tanaman",
-            "Lakukan rotasi tanaman dengan jenis non-solanaceae",
-            "Aplikasikan fungisida preventif saat musim hujan",
-            "Gunakan mulsa untuk mengurangi percikan air tanah ke daun"
-        ],
-        "solutions": [
-            "Aplikasikan fungisida karbendazim 50 WP dosis 1-2 g/l air",
-            "Gunakan fungisida klorotalonil 75 WP dosis 2 g/l air secara bergantian",
-            "Semprot dengan mancozeb 80 WP dosis 2-2.5 g/l air",
-            "Aplikasikan fungisida antracol 70 WP dosis 2-3 g/l air",
-            "Gunakan fungisida sistemik seperti metil tiofanat 70 WP (1 g/l)",
-            "Semprot dengan fungisida propineb 70 WP dosis 2-3 g/l air",
-            "Aplikasikan setiap 7-10 hari saat cuaca lembab",
-            "Gunakan fungisida berbahan tembaga seperti tembaga oksiklorida"
-        ],
-        "sources": [
-            {
-                "title": "Bercak Daun Cabai Gejala dan Pengendalian - Mitalom",
-                "url": "https://mitalom.com/hama-penyakit-tanaman/5487/penyakit-bercak-daun-cabe-gejala-penyebab-dan-cara-pengendalianya-bercak-daun-cercospora/"
-            },
-            {
-                "title": "Pengendalian Penyakit Bercak Daun - Balai Penelitian Tanaman Sayuran",
-                "url": "https://balitsa.litbang.pertanian.go.id/"
-            },
-            {
-                "title": "Cercospora Leaf Spot Management - Plant Disease Journal", 
-                "url": "https://apsjournals.apsnet.org/doi/abs/10.1094/PDIS-04-15-0408-RE"
-            }
-        ]
-    },
-    "whitefly": {
-        "name": "Serangan Kutu Kebul (Whitefly Infestation)",
-        "description": "Kutu kebul (Bemisia tabaci) adalah serangga hama polyphagous yang menyerang tanaman cabai dengan menghisap cairan daun melalui stylet mereka. Selain kerusakan langsung berupa klorosis dan pertumbuhan terhambat, kutu kebul juga berperan sebagai vektor virus berbahaya seperti Pepper Yellow Leaf Curl Virus. Populasi kutu kebul berkembang pesat pada kondisi panas dan kering dengan siklus hidup 2-4 minggu. Embun madu yang dihasilkan menjadi media tumbuh jamur sooty mold yang mengurangi fotosintesis.",
-        "characteristics": [
-            "Daun menguning tidak merata dimulai dari tulang daun",
-            "Terdapat serangga putih kecil (1-2 mm) di permukaan bawah daun",
-            "Daun mengkerut, menggulung, dan akhirnya layu",
-            "Terdapat embun madu (honeydew) pada permukaan daun",
-            "Pertumbuhan jamur hitam (sooty mold) pada embun madu",
-            "Daun mudah rontok ketika tanaman digoyangkan",
-            "Pucuk tanaman mengalami klorosis dan pertumbuhan terhambat"
-        ],
-        "prevention": [
-            "Gunakan perangkap kuning sticky trap dengan kepadatan 25-30 per hektar",
-            "Tanam tanaman penghalang seperti jagung atau sorghum",
-            "Jaga kebersihan kebun dari gulma inang kutu kebul", 
-            "Gunakan mulsa plastik perak untuk mengusir kutu kebul",
-            "Lakukan monitoring rutin setiap 2-3 hari sekali",
-            "Atur jarak tanam yang tidak terlalu rapat",
-            "Aplikasikan pupuk kalium untuk meningkatkan ketahanan tanaman"
-        ],
-        "solutions": [
-            "Aplikasikan insektisida imidakloprid 200 SL dosis 0.5 ml/l air",
-            "Gunakan insektisida thiamethoxam 25 WG dosis 0.2 g/l air",
-            "Semprot dengan acetamiprid 20 SP dosis 0.25 g/l air",
-            "Aplikasikan buprofezin 25 SC dosis 1-2 ml/l air untuk nimfa",
-            "Gunakan insektisida botanis seperti ekstrak nimba (azadirachtin)",
-            "Aplikasikan sabun insektisida atau minyak mineral untuk suffokasi",
-            "Lepas predator alami seperti Encarsia formosa",
-            "Rotasi insektisida untuk mencegah resistensi"
-        ],
-        "sources": [
-            {
-                "title": "Bioekologi dan Pengendalian Kutu Kebul - IPB Repository",
-                "url": "https://repository.ipb.ac.id/handle/123456789/54321"
-            },
-            {
-                "title": "Whitefly Management in Chili Pepper - CABI",
-                "url": "https://www.cabi.org/isc/datasheet/8927"
-            },
-            {
-                "title": "Pengendalian Kutu Kebul Secara Terpadu - Balai Proteksi Tanaman",
-                "url": "https://www.pertanian.go.id/home/?show=repo&fileNum=126"
-            }
-        ]
-    },
-    "yellowish": {
-        "name": "Daun Menguning (Leaf Yellowing)",
-        "description": "Kondisi daun menguning pada tanaman cabai dapat disebabkan oleh berbagai faktor biotik dan abiotik. Penyebab utama meliputi defisiensi nutrisi (terutama nitrogen, magnesium, atau besi), masalah drainase dan aerasi tanah, pH tanah yang tidak optimal, serangan patogen akar, atau stres lingkungan. Klorosis dimulai dari daun tua (defisiensi nitrogen) atau daun muda (defisiensi besi), dan memerlukan diagnosis yang tepat untuk penanganan yang efektif. Kondisi ini dapat menurunkan produktivitas hingga 40% jika tidak ditangani dengan baik.",
-        "characteristics": [
-            "Daun menguning dimulai dari tepi atau area antar tulang daun",
-            "Pola penguningan berbeda-beda tergantung penyebab",
-            "Defisiensi N: dimulai dari daun tua ke muda",
-            "Defisiensi Fe: dimulai dari daun muda dengan tulang daun hijau",
-            "Pertumbuhan tanaman melambat atau terhambat",
-            "Daun mudah gugur setelah menguning",
-            "Pada kasus berat, seluruh tajuk tanaman menguning"
-        ],
-        "prevention": [
-            "Lakukan analisis tanah secara berkala untuk monitoring pH dan nutrisi",
-            "Perbaiki sistem drainase untuk mencegah genangan air",
-            "Berikan pupuk berimbang NPK sesuai fase pertumbuhan",
-            "Aplikasikan kapur pertanian jika pH tanah terlalu asam",
-            "Gunakan pupuk organik untuk memperbaiki struktur tanah",
-            "Hindari penyiraman berlebihan yang menyebabkan akar busuk",
-            "Monitor dan kendalikan hama yang menyerang akar"
-        ],
-        "solutions": [
-            "Aplikasikan pupuk nitrogen (urea 46%) dosis 200-300 kg/ha untuk defisiensi N",
-            "Gunakan pupuk magnesium sulfat (kieserit) 150-200 kg/ha untuk defisiensi Mg",
-            "Aplikasikan chelated iron (Fe-EDTA) via semprot daun untuk defisiensi Fe",
-            "Berikan pupuk kalium sulfat untuk meningkatkan ketahanan akar",
-            "Aplikasikan fungisida metalaksil untuk mengatasi busuk akar",
-            "Perbaiki drainase dengan membuat bedengan tinggi 20-30 cm",
-            "Aplikasikan pupuk daun dengan kandungan mikronutrien lengkap",
-            "Gunakan soil conditioner untuk memperbaiki struktur tanah"
-        ],
-        "sources": [
-            {
-                "title": "Nutrient Deficiency in Chili Plants - UC Davis Extension",
-                "url": "https://ucanr.edu/sites/Vegetable_Crops/files/341510.pdf"
-            },
-            {
-                "title": "Diagnosis Defisiensi Hara pada Tanaman Cabai - Balitsa",
-                "url": "https://balitsa.litbang.pertanian.go.id/publikasi-online/"
-            },
-            {
-                "title": "Managing Yellowing in Pepper Plants - Cornell Extension",
-                                "url": "https://vegetables.cornell.edu/pest-management/disease-factsheets/"
-                            }
-                        ]
-                    }
-                }
+  "healthy": {
+    "name": "Daun Sehat",
+    "description": "Daun cabai sehat berwarna hijau segar merata, tidak ada bercak/nekrosis, tidak keriting/lisut, turgid (tidak layu), menunjukkan fotosintesis dan pertumbuhan normal; mencerminkan budidaya sesuai SOP (benih bermutu, pemupukan berimbang, drainase dan sanitasi baik).",
+    "characteristics": [
+      "Warna hijau merata, permukaan mulus tanpa bercak",
+      "Tidak ada klorosis/nekrosis, tidak keriting/menggulung",
+      "Daun elastis (turgid), ukuran dan bentuk normal/simetris",
+      "Tulang daun jelas, tidak menebal atau menonjol",
+      "Pertumbuhan pucuk aktif; tidak ada serangga/embun madu"
+    ],
+    "prevention": [
+      "Gunakan benih sehat/bersertifikat dan semai pada media steril",
+      "Atur jarak tanam dan gunakan mulsa untuk menekan kelembapan berlebih",
+      "Pemupukan berimbang sesuai rekomendasi setempat",
+      "Perbaiki pH tanah dengan pengapuran (dolomit) bila perlu",
+      "Sanitasi gulma/sisa tanaman dan lakukan monitoring OPT rutin"
+    ],
+    "solutions": [
+      "Koreksi hara berdasarkan gejala dan/atau uji tanah (N, P, K, Mg, Fe)",
+      "Perbaiki drainase dan struktur bedengan bila ada genangan",
+      "Buang bagian tidak normal yang dicurigai sebagai sumber OPT",
+      "Lanjutkan praktik GAP/SOP: mulsa, rotasi, pengendalian OPT terpadu"
+    ],
+    "sources": [
+      {
+        "title": "Panduan Umum SOP Budidaya Cabai Rawit Hiyung (BPSIP Kalimantan Selatan, 2024)",
+        "url": "https://hortikultura.pertanian.go.id/wp-content/uploads/2024/11/Panduan-Umum-Standar-Operasional-Prosedur-Budidaya-Cabai-Rawit-Hiyung_watermark.pdf"
+      },
+      {
+        "title": "Budidaya, Produksi Benih dan Pascapanen Cabai (BPTP Bengkulu, 2021)",
+        "url": "https://repository.pertanian.go.id/bitstreams/57efefd9-849d-4ee8-a35f-8b95dbb2dbd1/download"
+      }
+    ]
+  },
+  "leaf curl": {
+    "name": "Keriting Daun (Leaf Curl Virus)",
+    "description": "Penyakit kuning/keriting disebabkan oleh virus begomovirus (Pepper Yellow Leaf Curl Virus). Gejala awal pucuk cekung/mengerut dan mosaik kuning; berlanjut daun seluruhnya menguning (klorosis), daun mengecil dan menebal, tanaman kerdil. Ditularkan secara persisten oleh kutu kebul (Bemisia tabaci).",
+    "characteristics": [
+      "Daun pucuk cekung/mengerut, mosaik kuning",
+      "Daun lebih kecil, lebih tebal, kasar; tepi dapat menggulung",
+      "Klorosis mencolok, dapat terlihat dari kejauhan",
+      "Pertumbuhan terhambat (kerdil), bunga/ buah berkurang",
+      "Sering ditemukan koloni kutu kebul sebagai vektor"
+    ],
+    "prevention": [
+      "Sanitasi gulma inang dan pasang perangkap kuning",
+      "Gunakan mulsa reflektif/jaring serangga di daerah endemik",
+      "Rotasi dengan tanaman bukan inang dan gunakan varietas tahan",
+      "Monitoring intensif sejak persemaian",
+      "Pelihara musuh alami (Encarsia/Eretmocerus)"
+    ],
+    "solutions": [
+      "Pengendalian vektor (kutu kebul) dengan insektisida selektif",
+      "Pengendalian hayati (parasitoid Encarsia/Eretmocerus) dan pestisida nabati",
+      "Sanitasi: cabut dan musnahkan tanaman yang terinfeksi berat",
+      "Penerapan PHT secara terpadu"
+    ],
+    "sources": [
+      {
+        "title": "OPT dan Pengendaliannya pada Budidaya Cabai (Balitsa, 2020)",
+        "url": "uploaded:/mnt/data/ilide.info-buku-opt-dan-pengendaliaannya-pada-budidaya-cabai-19-nov-2020-pr_e04c099ccaae8b77326bbab72edf7805.pdf"
+      },
+      {
+        "title": "Panduan Umum SOP Budidaya Cabai Rawit Hiyung (2024)",
+        "url": "https://hortikultura.pertanian.go.id/wp-content/uploads/2024/11/Panduan-Umum-Standar-Operasional-Prosedur-Budidaya-Cabai-Rawit-Hiyung_watermark.pdf"
+      }
+    ]
+  },
+  "leaf spot": {
+    "name": "Bercak Daun (Cercospora capsici)",
+    "description": "Bercak daun akibat cendawan Cercospora capsici; bercak sirkuler dengan pusat abu-abu tua/putih dan pinggir coklat. Dapat menyatu, sering disebut frog-eye spot; menimbulkan penguningan dan defoliasi pada serangan berat.",
+    "characteristics": [
+      "Bercak bulat sirkuler, pusat abu-abu tua/putih, tepi coklat",
+      "Bercak dapat menyatu membesar (frog-eye)",
+      "Sering mulai di daun tua; dapat meluas ke tangkai/batang",
+      "Daun menguning sebelum waktunya, rontok",
+      "Perkembangan cepat pada kondisi lembap"
+    ],
+    "prevention": [
+      "Jarak tanam & pemangkasan untuk menurunkan kelembapan",
+      "Rotasi dengan tanaman bukan inang; sanitasi sisa tanaman",
+      "Gunakan benih sehat dan mulsa plastik",
+      "Drainase baik (guludan)",
+      "Monitoring rutin gejala awal"
+    ],
+    "solutions": [
+      "Fungisida sesuai anjuran bila infeksi meluas",
+      "Aplikasi agens hayati (Trichoderma/Gliocladium)",
+      "Buang daun terinfeksi untuk menekan inokulum",
+      "Teruskan praktik GAP/SOP: mulsa, rotasi, sanitasi"
+    ],
+    "sources": [
+      {
+        "title": "OPT dan Pengendaliannya pada Budidaya Cabai (Balitsa, 2020)",
+        "url": "uploaded:/mnt/data/ilide.info-buku-opt-dan-pengendaliaannya-pada-budidaya-cabai-19-nov-2020-pr_e04c099ccaae8b77326bbab72edf7805.pdf"
+      },
+      {
+        "title": "Panduan Umum SOP Budidaya Cabai Rawit Hiyung (2024)",
+        "url": "https://hortikultura.pertanian.go.id/wp-content/uploads/2024/11/Panduan-Umum-Standar-Operasional-Prosedur-Budidaya-Cabai-Rawit-Hiyung_watermark.pdf"
+      }
+    ]
+  },
+  "whitefly": {
+    "name": "Serangan Kutu Kebul (Whitefly Infestation)",
+    "description": "Kutu kebul (Bemisia tabaci) merusak secara langsung dengan mengisap cairan daun, menyebabkan klorosis/pertumbuhan terhambat, serta mengeluarkan embun madu yang memicu jelaga (sooty mold). Secara tidak langsung menjadi vektor utama virus kuning (PYLCV).",
+    "characteristics": [
+      "Imago kecil, tubuh kuning terang berselimut lilin",
+      "Berkoloni di bawah permukaan daun",
+      "Daun menguning, pertumbuhan terhambat; ada embun madu lengket",
+      "Sering disertai gejala virus pada tanaman",
+      "Populasi meningkat di cuaca hangat/kering"
+    ],
+    "prevention": [
+      "Sanitasi gulma inang dan kebersihan lahan",
+      "Pasang perangkap kuning untuk monitoring",
+      "Gunakan mulsa reflektif/jaring serangga",
+      "Pelihara musuh alami; hindari insektisida broad-spectrum",
+      "Rotasi tanaman dan cabut tanaman sangat terinfeksi"
+    ],
+    "solutions": [
+      "Aplikasi insektisida selektif sesuai anjuran",
+      "Pengendalian hayati: parasitoid Encarsia/Eretmocerus",
+      "Pestisida nabati/sabun insektisida pada populasi awal",
+      "PHT terpadu dengan sanitasi dan pengelolaan kanopi"
+    ],
+    "sources": [
+      {
+        "title": "OPT dan Pengendaliannya pada Budidaya Cabai (Balitsa, 2020)",
+        "url": "uploaded:/mnt/data/ilide.info-buku-opt-dan-pengendaliaannya-pada-budidaya-cabai-19-nov-2020-pr_e04c099ccaae8b77326bbab72edf7805.pdf"
+      },
+      {
+        "title": "Panduan Umum SOP Budidaya Cabai Rawit Hiyung (2024)",
+        "url": "https://hortikultura.pertanian.go.id/wp-content/uploads/2024/11/Panduan-Umum-Standar-Operasional-Prosedur-Budidaya-Cabai-Rawit-Hiyung_watermark.pdf"
+      }
+    ]
+  },
+  "yellowish": {
+    "name": "Daun Menguning (Leaf Yellowing)",
+    "description": "Kuningnya daun cabai dapat bersumber dari faktor fisiologis/lingkungan (defisiensi hara N, Mg, Fe; pH ekstrem; drainase buruk) maupun patogen akar. Gejala umum berupa klorosis antar tulang daun, daun pucat hingga kuning, pertumbuhan terhambat, dan pada kasus berat terjadi gugur daun.",
+    "characteristics": [
+      "Klorosis antar tulang daun (interveinal)",
+      "Warna daun pucat/kuning, sering dimulai dari daun tua atau muda",
+      "Pertumbuhan terhambat; pucuk lemah",
+      "Pada kasus berat: nekrosis tepi/gugur daun",
+      "Tidak selalu disertai bercak atau keriting"
+    ],
+    "prevention": [
+      "Uji tanah & pemupukan berimbang (N, Mg, Fe)",
+      "Perbaiki pH tanah dengan pengapuran dolomit",
+      "Terapkan drainase baik (guludan)",
+      "Gunakan bahan organik/mulsa",
+      "Pantau OPT akar; lakukan rotasi"
+    ],
+    "solutions": [
+      "Aplikasi pupuk NPK sesuai rekomendasi; tambah Mg/Fe bila kekurangan",
+      "Perbaiki drainase dan aerasi akar",
+      "Jika terkait penyakit akar, gunakan agens hayati (Trichoderma/Gliocladium) dan fungisida",
+      "Lanjutkan pemantauan gejala untuk membedakan dari penyakit virus"
+    ],
+    "sources": [
+      {
+        "title": "Budidaya, Produksi Benih dan Pascapanen Cabai (BPTP Bengkulu, 2021)",
+        "url": "https://repository.pertanian.go.id/bitstreams/57efefd9-849d-4ee8-a35f-8b95dbb2dbd1/download"
+      },
+      {
+        "title": "Panduan Umum SOP Budidaya Cabai Rawit Hiyung (2024)",
+        "url": "https://hortikultura.pertanian.go.id/wp-content/uploads/2024/11/Panduan-Umum-Standar-Operasional-Prosedur-Budidaya-Cabai-Rawit-Hiyung_watermark.pdf"
+      }
+    ]
+  }
+}

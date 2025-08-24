@@ -11,7 +11,7 @@ import plotly.express as px
 
 # Set page configuration
 st.set_page_config(
-    page_title="Dokter Cabai - Sistem Diagnosa Penyakit Tanaman Cabai",
+    page_title="Sistem Diagnosa Penyakit Tanaman Cabai",
     page_icon="🌶️",
     layout="wide",
     initial_sidebar_state="expanded"
@@ -242,7 +242,7 @@ def main():
     # Header
     st.markdown("""
     <div class="main-header">
-        <div class="main-title">🌶️ Dokter Cabai</div>
+        <div class="main-title">🌶️ Klasifikasi Cabai</div>
         <div class="main-subtitle">Sistem Diagnosa Penyakit Tanaman Cabai Berbasis AI</div>
     </div>
     """, unsafe_allow_html=True)
