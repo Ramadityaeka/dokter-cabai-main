@@ -402,7 +402,7 @@ def main():
     # Additional information
     st.markdown("---")
     
-    with st.expander("ℹ️ Tentang Sistem Dokter Cabai"):
+    with st.expander("ℹ️ Tentang Sistem Klasifikasi Daun Cabai"):
         col1, col2 = st.columns(2)
         
         with col1:
@@ -440,7 +440,7 @@ def main():
     st.markdown("---")
     st.markdown("""
     <div style="text-align: center; color: #7f8c8d; margin-top: 2rem;">
-        <p>🌶️ <strong>Dokter Cabai</strong> - Sistem Diagnosa Penyakit Tanaman Cabai</p>
+        <p>🌶️ <strong>Klasifikasi Daun Cabai</strong> - Sistem Diagnosa Penyakit Tanaman Cabai</p>
     </div>
     """, unsafe_allow_html=True)
 
