@@ -253,7 +253,7 @@ def main():
         <div class="sidebar-content">
             <h3>📊 Statistik Model</h3>
             <p>Model: MobileNetV2</p>
-            <p>Akurasi: 83%</p>
+            <p>Akurasi: 92%</p>
         </div>
         """, unsafe_allow_html=True)
         
