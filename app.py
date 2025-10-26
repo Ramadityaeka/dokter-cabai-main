@@ -253,7 +253,7 @@ def main():
         <div class="sidebar-content">
             <h3>📊 Statistik Model</h3>
             <p>Model: MobileNetV2</p>
-            <p>Akurasi: 83%</p>
+            <p>Akurasi: 92%</p>
         </div>
         """, unsafe_allow_html=True)
         
@@ -306,13 +306,7 @@ def main():
     class_names = ['Sehat', 'Keriting Daun', 'Bercak Daun', 'Kutu Kebul', 'Menguning']
     class_keys = ['healthy', 'leaf curl', 'leaf spot', 'whitefly', 'yellowish']
 
-    # Image upload
-    st.markdown("""
-    <div class="upload-area">
-        <h3>📷 Unggah Foto Daun Cabai</h3>
-        <p>Pilih gambar daun cabai yang ingin didiagnosa (JPG, JPEG, PNG)</p>
-    </div>
-    """, unsafe_allow_html=True)
+
     
     uploaded_file = st.file_uploader("", 
                                     type=["jpg", "jpeg", "png"],
@@ -410,7 +404,7 @@ def main():
             ### 🔬 Teknologi yang Digunakan
             - **Deep Learning**: MobileNetV2 Architecture  
             - **Dataset**: 500+ gambar daun cabai berlabel
-            - **Akurasi Model**: 83% pada data testing
+            - **Akurasi Model**: 92% pada data testing
             - **Preprocessing**: Image augmentation & normalization
             
             ### 📊 Kondisi yang Dapat Dideteksi
